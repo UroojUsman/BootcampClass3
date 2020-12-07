@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.box
+{
+  height: 500px;
+  background-color: gray;
+}
+.Day
+{
+  background-color: yellow;
+}
